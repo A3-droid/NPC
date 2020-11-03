@@ -1,0 +1,8 @@
+  name: LemuriahNPC
+  main: net.lemuriah.LemuriahNPC.LemuriahNPC
+  version: 0.1a
+
+  author: A3eead
+
+  commands:
+    createnpc:
